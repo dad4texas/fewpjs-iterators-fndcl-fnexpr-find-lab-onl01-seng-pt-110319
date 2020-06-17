@@ -11,7 +11,7 @@ function superbowlWin(arr) {
   if(winner === undefined) {
     return winner
   } else {
-    
+
     return winner.year
   }
 
